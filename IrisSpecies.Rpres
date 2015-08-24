@@ -1,7 +1,7 @@
 How to Predict Iris Species
 ========================================================
 author:BRohde 
-date:`r date()`
+date: August 23, 2015
 
 Iris Species - Setosa, Veriscolour or Verginica
 ========================================================
@@ -21,9 +21,8 @@ How to Use the Tool
   - Each iris part was measured in centimeters
   
   - Once you have chosen your slider positions, click the Predict Iris 
-  
-  - Species button at the bottom of the column to obtain your results
-     at the top of the main panel
+    Species button at the bottom of the column to obtain your results
+    at the top of the main panel
  
 
 
@@ -51,8 +50,7 @@ Once the sliders are set by moving the inidicator to the right or left the Predi
 Try It For Yourself
 ========================================================
 
-  - The App can be found on shinyapps.io at https://brohde.shinyapps.io
-    /DEVELOPING_DATA_PRODUCTS
+  - The App can be found on shinyapps.io at https://brohde.shinyapps.io/IrisSpeciesPredicter
     
   - Fork on GitHub at https://github.com/brohde25/Developing_Data_Products
   

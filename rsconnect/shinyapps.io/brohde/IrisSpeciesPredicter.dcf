@@ -1,0 +1,7 @@
+name: IrisSpeciesPredicter
+account: brohde
+server: shinyapps.io
+bundleId: 250667
+url:
+   https://brohde.shinyapps.io/IrisSpeciesPredicter
+when: 1440381982.9157
